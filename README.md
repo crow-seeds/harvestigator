@@ -1,5 +1,5 @@
 # Harvestigator
-A Tax Auditing Game Made For Ludum Dare 52!
+A Tax Auditing Game Made For Ludum Dare 52! The theme was "Harvest"
 
 
 https://ldjam.com/events/ludum-dare/52/harvestigator-an-irs-tax-auditing-game
