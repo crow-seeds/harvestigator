@@ -1,4 +1,4 @@
-# harvestigator
+# Harvestigator
 A Tax Auditing Game Made For Ludum Dare 52!
 
 
